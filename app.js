@@ -173,7 +173,6 @@ console.log(joe);
 // TODO: After viewing the previous console.log(), return the code to a working state.
 
 
-
 Student.prototype.greeting = function() {
   return `Hi, my name is ${this.name}`;
 };
